@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/core-json",
-  "version": "1.70.0-beta-public-libs-prod",
+  "version": "1.70.1-master",
   "description": "JSON utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/core-json.git",
